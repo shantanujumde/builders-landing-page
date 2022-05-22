@@ -1,0 +1,51 @@
+.disp-image {
+    /* margin-top: 10%; */
+  height: 100vh;
+  width: 100%;
+  filter: blur(3px);
+}
+
+.centered {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  font-weight: 500;
+  color: black;
+  text-shadow: 2px 2px white;
+}
+.text-block {
+    margin-top: 10%;
+
+  height: 400px;
+  width: 100%;
+  /* background-color: aqua; */
+}
+.text-one{
+    margin: auto;
+    font-size: 40px;
+}
+.btn-block{
+    padding: 10%;
+    height: 100px;
+}
+.btn-action{
+    background-color: black;
+    color: white;
+    font-size: 40px;
+
+}
+.link{
+    margin-top: 5%;
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+}
+.link:hover{
+    color: grey;
+}
+.block-selection{
+     margin-top: 10%;
+     margin-bottom: 15vh;
+}

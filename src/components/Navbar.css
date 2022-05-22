@@ -1,0 +1,14 @@
+.navbar-brand{
+    margin-left: 5%;
+    font-size: 26px;
+}
+.navbar{
+    padding-top: 10%;
+    font-size: 18px;
+    color: black;
+}
+.nav-item:hover{
+    text-transform:uppercase;
+    text-decoration: underline;
+    color: black;
+}
